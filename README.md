@@ -16,4 +16,4 @@ The Pima population has been under study by the National Institute of Diabetes a
 * sklearn
 * statsmodels
 
-:pushpin: [Jupyter notebook](https://jupyter.org/) was used. :bell: In case of any problem to visualise the project, please check the following link: (shorturl.at/hHLT4)
+:pushpin: [Jupyter notebook](https://jupyter.org/) was used. :bell: In case of any problem to visualise the project, please check [here](shorturl.at/hHLT4)
