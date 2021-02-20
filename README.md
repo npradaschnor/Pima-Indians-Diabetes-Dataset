@@ -1,5 +1,5 @@
 # Pima Indians Diabetes Database
-## Prediction the onset of diabetes
+## Predicting the onset of diabetes
 
 I've explored, analysed the Pima Indians Diabetes Dataset, and applied Machine Learning Techniques. I've analysed and discussed the results using the knowledge acquired as a experienced Registered Dietitian.
 
